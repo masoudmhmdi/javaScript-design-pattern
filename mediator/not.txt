@@ -1,0 +1,5 @@
+we have three object with which we need to this object communicate with each other
+ 
+ *instead of communicate directly:
+ *this object send message to the MEDIATOR object
+ *MEDIATOR:take the message and handle the all of the complex logic
